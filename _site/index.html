@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://localhost:4000/QuasiPeriodicParallelWaveGAN_demo/stylesheets/stylesheet.css">
+  <link rel="canonical" href="http://localhost:4000/QuasiPeriodicParallelWaveGAN_demo/">
+  <link rel="stylesheet" href="http://localhost:4000/QuasiPeriodicParallelWaveGAN_demo/stylesheets/sharing-popup.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+  <link rel="alternate" type="application/rss+xml" title="Quasi-Periodic Parallel WaveGAN" href="http://localhost:4000/QuasiPeriodicParallelWaveGAN_demo/feed.xml">
+  <meta name="description" content="">
+
+   <title>Quasi-Periodic Parallel WaveGAN</title>
+
+
+
+</head>
+
+
+  <body>
+
+    <header class="page-header">
+     <h1 class="project-name"> <a class="header-link" href="/QuasiPeriodicParallelWaveGAN_demo/"> Quasi-Periodic Parallel WaveGAN</a></h1>
+     <!--<h3 style="font-weight: lighter;">a blog for <a class="header-link" href="http://canijustgo.com/" target="_blank">canijustgo.com</a></h3>-->
+     <h3>
+</header>
+
+
+    <section class="main-content">
+      <div class="wrapper">
+        <p>This page is the demo of</p>
+<ol>
+  <li>“Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation” [<a href="https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo">paper</a>] [<a href="https://github.com/bigpon">code</a>]</li>
+  <li>“Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural networks” [<a href="https://bigpon.github.io/QuasiPeriodicParallelWaveGAN_demo">paper</a>]</li>
+</ol>
+
+<h2 id="abstract"><strong>Abstract</strong></h2>
+<p align="justify"> We propose a <b>Quasi-Periodic Parallel WaveGAN (QPPWG)</b> waveform generative model, which applies a quasi-periodic (QP) structure to a parallel WaveGAN (PWG) model using pitch-dependent dilated convolution networks (PDCNNs). PWG is a compact GAN-based raw waveform generative model, whose generation time is much faster than realtime because of its non-autoregressive (non-AR) and non-causal mechanisms. Although PWG achieves a high fidelity speech generation, the generic and simple network architecture lacks pitch-controllability for the unseen auxiliary pitches such as a scaled pitch. To improve the pitch and speech modeling capability, we apply a QP structure with PDCNNs to the generator of PWG, and it introduces pitch information to the network by dynamically changing the network architecture corresponding to the auxiliary pitches. </p>
+
+<p><strong>Corpus and references:</strong><br />
+<a href="http://www.vc-challenge.org/">VCC2018</a><br />
+<a href="https://ieeexplore.ieee.org/abstract/document/9053795">PWG</a><br />
+<a href="https://github.com/kan-bayashi/ParallelWaveGAN">PWG_repo</a><br />
+<a href="https://bigpon.github.io/QuasiPeriodicWaveNet_demo/">QPNet</a></p>
+
+<h2 id="architecture-of-pwgqppwg"><strong>Architecture of PWG/QPPWG</strong></h2>
+<center><img src="res/figure/PWG.svg" style="display:block;width:370px;height:300px" /></center>
+
+<h2 id="generator-of-qppwg"><strong>Generator of QPPWG</strong></h2>
+<center><img src="res/figure/QPPWG_G.svg" style="display:block;width:500px;height:370px" /></center>
+
+<h2 id="non-ar-pdcnn"><strong>Non-AR PDCNN</strong></h2>
+<center><img src="res/figure/PDCNN.svg" style="display:block;width:500px;height:250px" /></center>
+
+<h2 id="demo-sounds"><strong>Demo Sounds</strong></h2>
+<ul>
+  <li>Conditioned on <strong>1</strong>×<em>F</em><sub>0</sub></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Vocoder</th>
+      <th style="text-align: center">Female (SF3)</th>
+      <th style="text-align: center">Male (SM3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left"><strong>Natural</strong></td>
+      <td style="text-align: center"><audio src="res/audio/SF3/Natural/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/Natural/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">WORLD<sup> *1</sup></td>
+      <td style="text-align: center"><audio src="res/audio/SF3/1_0_F0/WORLD/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/1_0_F0/WORLD/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPNet<sup> *2</sup></td>
+      <td style="text-align: center"><audio src="res/audio/SF3/1_0_F0/QPNet/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/1_0_F0/QPNet/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_30<sup> *3</sup></td>
+      <td style="text-align: center"><audio src="res/audio/SF3/1_0_F0/PWG_30/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/1_0_F0/PWG_30/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_20<sup> *4</sup></td>
+      <td style="text-align: center"><audio src="res/audio/SF3/1_0_F0/PWG_20/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/1_0_F0/PWG_20/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPPWG_20<sup> *5</sup></td>
+      <td style="text-align: center"><audio src="res/audio/SF3/1_0_F0/QPPWG_20/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/1_0_F0/QPPWG_20/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_16<sup> *6</sup></td>
+      <td style="text-align: center"><audio src="res/audio/SF3/1_0_F0/PWG_16/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/1_0_F0/PWG_16/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPPWG_16<sup> *7</sup></td>
+      <td style="text-align: center"><audio src="res/audio/SF3/1_0_F0/QPPWG_16/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/1_0_F0/QPPWG_16/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><sup>*1. <code class="highlighter-rouge">WORLD: Baseline I</code> </sup><br />
+<sup>*2. <code class="highlighter-rouge">QPNet: Baseline II</code> </sup><br />
+<sup>*3. <code class="highlighter-rouge">PWG_30: PWG vocoder with 30 fixed blocks</code> </sup> <br />
+<sup>*4. <code class="highlighter-rouge">PWG_20: PWG vocoder with 20 fixed blocks</code> </sup><br />
+<sup>*5. <code class="highlighter-rouge">QPPWG_20: QPPWG vocoder with 10 adaptive blocks + 10 fixed blocks</code> </sup><br />
+<sup>*6. <code class="highlighter-rouge">PWG_16: PWG vocoder with 16 fixed blocks</code> </sup><br />
+<sup>*7. <code class="highlighter-rouge">QPPWG_16: QPPWG vocoder with 8 adaptive blocks + 8 fixed blocks</code> </sup></p>
+
+<p><br /></p>
+<ul>
+  <li>Conditioned on <strong>½</strong>×<em>F</em><sub>0</sub></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Vocoder</th>
+      <th style="text-align: center">Female (SF3)</th>
+      <th style="text-align: center">Male (SM3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">WORLD</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/0_5_F0/WORLD/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/0_5_F0/WORLD/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPNet</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/0_5_F0/QPNet/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/0_5_F0/QPNet/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_30</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/0_5_F0/PWG_30/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/0_5_F0/PWG_30/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_20</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/0_5_F0/PWG_20/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/0_5_F0/PWG_20/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPPWG_20</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/0_5_F0/QPPWG_20/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/0_5_F0/QPPWG_20/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_16</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/0_5_F0/PWG_16/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/0_5_F0/PWG_16/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPPWG_16</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/0_5_F0/QPPWG_16/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/0_5_F0/QPPWG_16/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+<ul>
+  <li>Conditioned on <strong>2</strong>×<em>F</em><sub>0</sub></li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left">Vocoder</th>
+      <th style="text-align: center">Female (SF3)</th>
+      <th style="text-align: center">Male (SM3)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">WORLD</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/2_0_F0/WORLD/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/2_0_F0/WORLD/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPNet</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/2_0_F0/QPNet/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/2_0_F0/QPNet/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_30</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/2_0_F0/PWG_30/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/2_0_F0/PWG_30/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_20</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/2_0_F0/PWG_20/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/2_0_F0/PWG_20/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPPWG_20</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/2_0_F0/QPPWG_20/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/2_0_F0/QPPWG_20/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">PWG_16</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/2_0_F0/PWG_16/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/2_0_F0/PWG_16/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+    <tr>
+      <td style="text-align: left">QPPWG_16</td>
+      <td style="text-align: center"><audio src="res/audio/SF3/2_0_F0/QPPWG_16/30013.wav" controls="" preload=""></audio></td>
+      <td style="text-align: center"><audio src="res/audio/SM3/2_0_F0/QPPWG_16/30017.wav" controls="" preload=""></audio></td>
+    </tr>
+  </tbody>
+</table>
+
+<p><br /></p>
+
+<h2 id="subjective-results"><strong>Subjective Results</strong></h2>
+<ul>
+  <li>MOS results of speech quality</li>
+</ul>
+<center><img src="res/figure/MOS.jpg" /></center>
+<ul>
+  <li>XAB results of pitch accuracy</li>
+</ul>
+<center><img src="res/figure/XAB.jpg" style="display:block;width:400px;height:300px" /></center>
+
+<p><br /></p>
+
+<h2 id="visualized-intermediate-outputs"><strong>Visualized Intermediate Outputs</strong></h2>
+<p align="justify"> Because the waveform outputs of the PWG/QPPWG models are the cumulative results of the skip connections from the residual blocks, the speech modeling behavior of the residual blocks can be explored via the visualized intermediate outputs of partial residual blocks. The following table shows the spectrograms of the intermediate outputs of the cumulative residual blocks. The results of PWG w/ 20 fixed blocks, QPPWG w/ 10 adaptive blocks + 10 fixed blocks (the demo system QPPWG_20), and QPPWG w/ 10 fixed blocks + 10 adaptive blocks are presented.</p>
+
+<table border="0">
+  <tr>
+  <td align="center"> <b>PWG</b> </td>
+  <td align="center"> <b>QPPWG (adaptive-&gt;fixed)</b> </td>
+  <td align="center"> <b>QPPWG (fixed-&gt;adaptive)</b> </td>
+  </tr>
+  <tr> <td colspan="3" align="center"> Conditioned on <b>1</b>&times;<i>F</i><sub>0</sub> </td> </tr>
+  <tr>
+  <td> <img src="res/figure/Bf20C2_1f0.gif" alt="" /> </td>
+  <td> <img src="res/figure/Ba10C2Bf10C1_1f0.gif" alt="" /> </td>
+  <td> <img src="res/figure/Bf10C1Ba10C2_1f0.gif" alt="" /> </td>
+  </tr>
+  <tr> <td colspan="3" align="center"> Conditioned on <b>&frac12;</b>&times;<i>F</i><sub>0</sub> </td> </tr>
+  <tr>
+  <td> <img src="res/figure/Bf20C2_0.5f0.gif" alt="" /> </td>
+  <td> <img src="res/figure/Ba10C2Bf10C1_0.5f0.gif" alt="" /> </td>
+  <td> <img src="res/figure/Bf10C1Ba10C2_0.5f0.gif" alt="" /> </td>
+  </tr>
+  <tr> <td colspan="3" align="center"> Conditioned on <b>2</b>&times;<i>F</i><sub>0</sub> </td> </tr>
+  <tr>
+  <td> <img src="res/figure/Bf20C2_2f0.gif" alt="" /> </td>
+  <td> <img src="res/figure/Ba10C2Bf10C1_2f0.gif" alt="" /> </td>
+  <td> <img src="res/figure/Bf10C1Ba10C2_2f0.gif" alt="" /> </td>
+  </tr>
+</table>
+
+<p>According to the results, we can find that</p>
+<ul>
+  <li><strong>PWG</strong>: spectrograms contain more harmonic and non-harmonic details as the number of the cumulative residual blocks increases.</li>
+  <li><strong>QPPWG (adaptive-&gt;fixed)</strong>: the first ten adaptive blocks focus on modeling the harmonic components.</li>
+  <li><strong>QPPWG (fixed-&gt;adaptive)</strong>: the first ten fixed blocks focus on modeling the the non-harmonic components.</li>
+</ul>
+
+<p>The results confirm our assumption that that the adaptive blocks with the PDCNNs primarily model the pitch-related speech components with the long-term correlations while the fixed blocks with the DCNNs mainly focus on the spectral-related speech components with the short-term correlations.</p>
+
+<p><br /> 
+<a href="https://bigpon.github.io/">Home</a></p>
+
+<p><br /><br />
+<br /></p>
+
+      </div>
+    </div>
+
+    <p style="font-size: 60%; text-align: right;">page layout is modified from <a href="https://github.com/jasonlong/cayman-theme">cayman-theme</a> and <a href="https://github.com/adueck/cayman-blog">cayman-blog</a>. <a href="http://creativecommons.org/licenses/by/4.0/">LICENSE</a></p>
+
+
+
+  </body>
+
+    <script src="https://cdn.jsdelivr.net/clipboard.js/1.5.12/clipboard.min.js"></script>
+
+<script>
+var clipboard = new Clipboard('.share-btn');
+
+    clipboard.on('success', function(e) {
+        console.log(e);
+    });
+    clipboard.on('error', function(e) {
+        console.log(e);
+    });
+</script>
+
+
+</html>

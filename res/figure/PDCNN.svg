@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- 由 Microsoft Visio 11.0, SVG Export, v1.0 產生 PDCNN.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="8.39045in" height="4.66179in"
+		viewBox="0 0 604.112 335.649" xml:space="preserve" color-interpolation-filters="sRGB" class="st29">
+	<v:documentProperties v:langID="1028" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st2 {fill:#002060;font-family:Times New Roman;font-size:1.99999em;font-weight:bold}
+		.st3 {fill:#5f6c35;font-family:Times New Roman;font-size:1.99999em;font-weight:bold}
+		.st4 {fill:#e1ebf3;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st5 {fill:#e1ebf3;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st6 {fill:#ffffff;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st7 {fill:#ffffff;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st8 {fill:#fae9dc;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st9 {marker-end:url(#mrkr5-44);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st10 {fill:#404040;fill-opacity:1;stroke:#404040;stroke-opacity:1;stroke-width:0.37313432835821}
+		.st11 {fill:#faeadc;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.25}
+		.st12 {marker-end:url(#mrkr10-115);marker-start:url(#mrkr10-113);stroke:#c00000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st13 {fill:#c00000;fill-opacity:1;stroke:#c00000;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st14 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st15 {fill:#c00000;font-family:Times New Roman;font-size:1.66667em;font-weight:bold}
+		.st16 {font-size:1em}
+		.st17 {fill:#3e75a6;font-family:Times New Roman;font-size:1.5em;font-weight:bold}
+		.st18 {font-size:1em;font-style:italic;font-weight:normal}
+		.st19 {font-size:1em;font-weight:normal}
+		.st20 {baseline-shift:-32.4951%;font-size:0.649902em;font-style:italic;font-weight:normal}
+		.st21 {marker-end:url(#mrkr13-199);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:3}
+		.st22 {fill:#404040;fill-opacity:1;stroke:#404040;stroke-opacity:1;stroke-width:0.43103448275862}
+		.st23 {fill:#3e75a6;font-family:Times New Roman;font-size:1.66667em;font-weight:bold}
+		.st24 {baseline-shift:-32.4947%;font-size:0.649894em;font-style:italic;font-weight:normal}
+		.st25 {fill:#000000;font-family:Times New Roman;font-size:1.66667em;font-style:italic}
+		.st26 {baseline-shift:-32.4947%;font-size:0.649894em}
+		.st27 {font-size:1em;font-style:normal}
+		.st28 {fill:#000000;font-family:Times New Roman;font-size:1.66667em}
+		.st29 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad30-41" v:fillPattern="30" v:foreground="#cbddeb" v:background="#e1ebf3" x1="0" y1="1" x2="0" y2="0">
+			<stop offset="0" style="stop-color:#cbddeb;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#e1ebf3;stop-opacity:1"/>
+		</linearGradient>
+		<linearGradient id="grad30-110" v:fillPattern="30" v:foreground="#f0f0f0" v:background="#ffffff" x1="0" y1="1" x2="0"
+				y2="0">
+			<stop offset="0" style="stop-color:#f0f0f0;stop-opacity:1"/>
+			<stop offset="1" style="stop-color:#ffffff;stop-opacity:1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend5">
+			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr5-44" class="st10" v:arrowType="5" v:arrowSize="2" v:setback="4.69" refX="-4.69" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend5" transform="scale(-2.68,-2.68) "/>
+		</marker>
+		<g id="lend10">
+			<path
+					d="M 0 0.75 C -0.414214 0.75 -0.75 0.414214 -0.75 0 -0.75 -0.414214 -0.414214 -0.75 0 -0.75 0.414214 -0.75 0.75 -0.414214 0.75 0 0.75 0.414214 0.414214 0.75 0 0.75 Z "
+					style="stroke:none"/>
+		</g>
+		<marker id="mrkr10-113" class="st13" v:arrowType="10" v:arrowSize="2" v:setback="2.28" refX="2.28" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend10" transform="scale(3.52) "/>
+		</marker>
+		<marker id="mrkr10-115" class="st13" v:arrowType="10" v:arrowSize="2" v:setback="2.64" refX="-2.64" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend10" transform="scale(-3.52,-3.52) "/>
+		</marker>
+		<g id="lend13">
+			<path d="M 3 1 L 0 0 L 3 -1 L 3 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr13-199" class="st22" v:arrowType="13" v:arrowSize="4" v:setback="6.84" refX="-6.84" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend13" transform="scale(-2.32,-2.32) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>Page-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="連接器" v:index="0"/>
+		<v:layer v:name="流程圖" v:index="1"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(1.5,-299.466)">
+			<title>工作表.1</title>
+			<desc>DCNN</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="42.5197" cy="321.476" width="85.04" height="28.3465"/>
+			<rect x="0" y="307.303" width="85.0394" height="28.3465" class="st1"/>
+			<text x="2" y="328.68" class="st2" v:langID="1028"><v:paragraph/><v:tabList/>DCNN</text>		</g>
+		<g id="shape2-4" v:mID="2" v:groupContext="shape" transform="translate(1.5,-157.734)">
+			<title>工作表.2</title>
+			<desc>PDCNN</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="56.6929" cy="321.476" width="113.39" height="28.3465"/>
+			<rect x="0" y="307.303" width="113.386" height="28.3465" class="st1"/>
+			<text x="2" y="328.68" class="st3" v:langID="1028"><v:paragraph/><v:tabList/>PDCNN</text>		</g>
+		<g id="shape3-7" v:mID="3" v:groupContext="shape" v:layerMember="0;1" transform="translate(129.059,-30.1751)">
+			<title>頁面上的參考.1404</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st4"/>
+		</g>
+		<g id="shape4-9" v:mID="4" v:groupContext="shape" v:layerMember="0;1" transform="translate(171.579,-30.1751)">
+			<title>頁面上的參考.1405</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape5-11" v:mID="5" v:groupContext="shape" v:layerMember="0;1" transform="translate(214.098,-30.1751)">
+			<title>頁面上的參考.1406</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st4"/>
+		</g>
+		<g id="shape6-13" v:mID="6" v:groupContext="shape" v:layerMember="0;1" transform="translate(256.618,-30.1751)">
+			<title>頁面上的參考.1407</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape7-15" v:mID="7" v:groupContext="shape" v:layerMember="0;1" transform="translate(1.5,-30.1751)">
+			<title>頁面上的參考.1408</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape8-17" v:mID="8" v:groupContext="shape" v:layerMember="0;1" transform="translate(44.0197,-30.1751)">
+			<title>頁面上的參考.1409</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st4"/>
+		</g>
+		<g id="shape9-19" v:mID="9" v:groupContext="shape" v:layerMember="0;1" transform="translate(86.5394,-30.1751)">
+			<title>頁面上的參考.1410</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape10-21" v:mID="10" v:groupContext="shape" v:layerMember="0;1" transform="translate(129.059,-79.7814)">
+			<title>頁面上的參考.1411</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape11-23" v:mID="11" v:groupContext="shape" v:layerMember="0;1" transform="translate(171.579,-79.7814)">
+			<title>頁面上的參考.1412</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape12-25" v:mID="12" v:groupContext="shape" v:layerMember="0;1" transform="translate(214.098,-79.7814)">
+			<title>頁面上的參考.1413</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape13-27" v:mID="13" v:groupContext="shape" v:layerMember="0;1" transform="translate(256.618,-79.7814)">
+			<title>頁面上的參考.1414</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st7"/>
+		</g>
+		<g id="shape14-29" v:mID="14" v:groupContext="shape" v:layerMember="0;1" transform="translate(1.5,-79.7814)">
+			<title>頁面上的參考.1415</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape15-31" v:mID="15" v:groupContext="shape" v:layerMember="0;1" transform="translate(44.0197,-79.7814)">
+			<title>頁面上的參考.1416</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape16-33" v:mID="16" v:groupContext="shape" v:layerMember="0;1" transform="translate(86.5394,-79.7814)">
+			<title>頁面上的參考.1417</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st7"/>
+		</g>
+		<g id="shape17-35" v:mID="17" v:groupContext="shape" v:layerMember="0;1" transform="translate(256.618,-129.388)">
+			<title>頁面上的參考.1418</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st8"/>
+		</g>
+		<g id="shape18-37" v:mID="18" v:groupContext="shape" v:layerMember="0" transform="translate(263.705,-58.5215)">
+			<title>動態連接器.1419</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 335.65 L7.09 321.42" class="st9"/>
+		</g>
+		<g id="shape19-45" v:mID="19" v:groupContext="shape" v:layerMember="0;1" transform="translate(129.059,-129.388)">
+			<title>頁面上的參考.1420</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape20-47" v:mID="20" v:groupContext="shape" v:layerMember="0;1" transform="translate(171.579,-129.388)">
+			<title>頁面上的參考.1421</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape21-49" v:mID="21" v:groupContext="shape" v:layerMember="0;1" transform="translate(214.098,-129.388)">
+			<title>頁面上的參考.1422</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape22-51" v:mID="22" v:groupContext="shape" v:layerMember="0;1" transform="translate(1.5,-129.388)">
+			<title>頁面上的參考.1423</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape23-53" v:mID="23" v:groupContext="shape" v:layerMember="0;1" transform="translate(44.0197,-129.388)">
+			<title>頁面上的參考.1424</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape24-55" v:mID="24" v:groupContext="shape" v:layerMember="0;1" transform="translate(86.5394,-129.388)">
+			<title>頁面上的參考.1425</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape25-57" v:mID="25" v:groupContext="shape" v:layerMember="0;1" transform="translate(256.618,-200.254)">
+			<title>頁面上的參考.1426</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape26-59" v:mID="26" v:groupContext="shape" v:layerMember="0;1" transform="translate(299.138,-200.254)">
+			<title>頁面上的參考.1427</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape27-61" v:mID="27" v:groupContext="shape" v:layerMember="0;1" transform="translate(341.657,-200.254)">
+			<title>頁面上的參考.1428</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape28-63" v:mID="28" v:groupContext="shape" v:layerMember="0;1" transform="translate(384.177,-200.254)">
+			<title>頁面上的參考.1429</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape29-65" v:mID="29" v:groupContext="shape" v:layerMember="0;1" transform="translate(256.618,-249.86)">
+			<title>頁面上的參考.1430</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape30-67" v:mID="30" v:groupContext="shape" v:layerMember="0;1" transform="translate(299.138,-249.86)">
+			<title>頁面上的參考.1431</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st7"/>
+		</g>
+		<g id="shape31-69" v:mID="31" v:groupContext="shape" v:layerMember="0;1" transform="translate(341.657,-249.86)">
+			<title>頁面上的參考.1432</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape32-71" v:mID="32" v:groupContext="shape" v:layerMember="0;1" transform="translate(384.177,-249.86)">
+			<title>頁面上的參考.1433</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st7"/>
+		</g>
+		<g id="shape33-73" v:mID="33" v:groupContext="shape" v:layerMember="0;1" transform="translate(384.177,-299.466)">
+			<title>頁面上的參考.1434</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st8"/>
+		</g>
+		<g id="shape34-75" v:mID="34" v:groupContext="shape" v:layerMember="0" transform="translate(391.264,-228.6)">
+			<title>動態連接器.1435</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 335.65 L7.09 321.42" class="st9"/>
+		</g>
+		<g id="shape35-81" v:mID="35" v:groupContext="shape" v:layerMember="0" transform="translate(355.831,-228.6)">
+			<title>動態連接器.1436</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L36.23 317.54" class="st9"/>
+		</g>
+		<g id="shape36-87" v:mID="36" v:groupContext="shape" v:layerMember="0" transform="translate(306.224,-228.6)">
+			<title>動態連接器.1437</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 335.65 L7.09 321.42" class="st9"/>
+		</g>
+		<g id="shape37-93" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(270.791,-228.6)">
+			<title>動態連接器.1438</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L36.23 317.54" class="st9"/>
+		</g>
+		<g id="shape38-99" v:mID="38" v:groupContext="shape" v:layerMember="0;1" transform="translate(256.618,-299.466)">
+			<title>頁面上的參考.1439</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape39-101" v:mID="39" v:groupContext="shape" v:layerMember="0;1" transform="translate(299.138,-299.466)">
+			<title>頁面上的參考.1440</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape40-103" v:mID="40" v:groupContext="shape" v:layerMember="0;1" transform="translate(341.657,-299.466)">
+			<title>頁面上的參考.1441</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape41-105" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(270.791,-178.994)">
+			<title>動態連接器.1442</title>
+			<desc>Receptive field</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="127.559" cy="328.562" width="139.07" height="32.0037"/>
+			<path d="M2.28 328.56 L2.64 328.56 L252.48 328.56" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="64.5268" y="316.563" width="126.065" height="23.9999" class="st14"/>
+			<text x="64.53" y="334.56" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Receptive field</text>		</g>
+		<g id="shape42-118" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(15.6732,-8.91522)">
+			<title>動態連接器.1443</title>
+			<desc>Effective receptive field</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="255.118" cy="328.562" width="214.02" height="32.0037"/>
+			<path d="M2.28 328.56 L2.64 328.56 L507.6 328.56" class="st12"/>
+			<rect v:rectContext="textBkgnd" x="154.615" y="316.563" width="201.006" height="23.9999" class="st14"/>
+			<text x="154.62" y="334.56" class="st15" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>E<tspan
+						class="st16" v:langID="1028">ffective</tspan> receptive field</text>		</g>
+		<g id="shape43-129" v:mID="43" v:groupContext="shape" v:layerMember="0" transform="translate(185.752,-58.5215)">
+			<title>動態連接器.1444</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L78.21 316.1" class="st9"/>
+		</g>
+		<g id="shape44-135" v:mID="44" v:groupContext="shape" v:layerMember="0" transform="translate(93.626,-58.5215)">
+			<title>動態連接器.1445</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 335.65 L7.09 321.42" class="st9"/>
+		</g>
+		<g id="shape45-141" v:mID="45" v:groupContext="shape" v:layerMember="0" transform="translate(15.6732,-58.5215)">
+			<title>動態連接器.1446</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L78.21 316.1" class="st9"/>
+		</g>
+		<g id="shape46-147" v:mID="46" v:groupContext="shape" v:layerMember="0" transform="translate(391.264,-278.207)">
+			<title>動態連接器.1447</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 335.65 L7.09 321.42" class="st9"/>
+		</g>
+		<g id="shape47-153" v:mID="47" v:groupContext="shape" v:layerMember="0" transform="translate(313.311,-278.207)">
+			<title>動態連接器.1448</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L78.21 316.1" class="st9"/>
+		</g>
+		<g id="shape48-159" v:mID="48" v:groupContext="shape" v:layerMember="0" transform="translate(263.705,-108.128)">
+			<title>動態連接器.1449</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 335.65 L7.09 321.42" class="st9"/>
+		</g>
+		<g id="shape49-165" v:mID="49" v:groupContext="shape" v:layerMember="0" transform="translate(100.713,-108.128)">
+			<title>動態連接器.1450</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L163.1 315.26" class="st9"/>
+		</g>
+		<g id="shape50-171" v:mID="50" v:groupContext="shape" transform="translate(540.083,-108.128)">
+			<title>工作表.50</title>
+			<desc>Output d&#39;=2×ET</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="310.846" width="63.78" height="49.6063"/>
+			<rect x="0" y="286.043" width="63.7795" height="49.6063" class="st1"/>
+			<text x="2" y="305.44" class="st17" v:langID="1033"><v:paragraph/><v:tabList/>Output<v:newlineChar/><tspan x="2"
+						dy="1.2em" class="st18" v:langID="1028">d</tspan><tspan class="st18" v:langID="1028">&#39;</tspan><tspan
+						class="st19" v:langID="1028">=</tspan><tspan class="st19" v:langID="1028">2</tspan><tspan class="st19"
+						v:langID="1028">×</tspan><tspan class="st18" v:langID="1028">E</tspan><tspan dy="-0.279em" class="st20"
+						v:langID="1028" v:baseFontSize="18">T</tspan></text>		</g>
+		<g id="shape51-181" v:mID="51" v:groupContext="shape" transform="translate(540.083,-58.5215)">
+			<title>工作表.51</title>
+			<desc>Hidden d&#39;=1×ET</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="310.846" width="63.78" height="49.6063"/>
+			<rect x="0" y="286.043" width="63.7795" height="49.6063" class="st1"/>
+			<text x="2" y="305.44" class="st17" v:langID="1033"><v:paragraph/><v:tabList/>Hidden<v:newlineChar/><tspan x="2"
+						dy="1.2em" class="st18" v:langID="1028">d</tspan><tspan class="st18" v:langID="1028">&#39;</tspan><tspan
+						class="st19" v:langID="1028">=</tspan><tspan class="st19" v:langID="1028">1</tspan><tspan class="st19"
+						v:langID="1028">×</tspan><tspan class="st18" v:langID="1028">E</tspan><tspan dy="-0.279em" class="st20"
+						v:langID="1028" v:baseFontSize="18">T</tspan></text>		</g>
+		<g id="shape52-191" v:mID="52" v:groupContext="shape" transform="translate(540.083,-30.1751)">
+			<title>工作表.52</title>
+			<desc>Input</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="321.476" width="63.78" height="28.3465"/>
+			<rect x="0" y="307.303" width="63.7795" height="28.3465" class="st1"/>
+			<text x="2" y="326.88" class="st17" v:langID="1033"><v:paragraph/><v:tabList/>Input</text>		</g>
+		<g id="shape53-194" v:mID="53" v:groupContext="shape" v:layerMember="0" transform="translate(214.098,-313.64)">
+			<title>動態連接器.1457</title>
+			<desc>Pitch dependent dilated factors ET</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="-62.8941" cy="381.694" width="156.35" height="80.0098"/>
+			<path d="M0 335.65 C-56.69 349.82 -61.72 372.8 -65.29 392.87 C-67.97 407.94 -69.83 421.37 -70.55 442.33 L-70.55 442.69"
+					class="st21"/>
+			<rect v:rectContext="textBkgnd" x="-132.064" y="345.691" width="138.34" height="73.2019" class="st14"/>
+			<text x="-132.06" y="363.69" class="st23" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Pitch<tspan
+						class="st16" v:langID="1033"> </tspan><tspan class="st16" v:langID="1033">dependent <v:newlineChar/></tspan><tspan
+						x="-124.27" dy="1.2em" class="st16" v:langID="1033">dilated factor</tspan>s<tspan class="st16"
+						v:langID="1033"> </tspan><tspan x="-72.62" dy="1.2em" class="st18">E</tspan><tspan dy="-0.279em"
+						class="st24" v:baseFontSize="20">T</tspan></text>		</g>
+		<g id="shape54-208" v:mID="54" v:groupContext="shape" transform="translate(242.445,-157.734)">
+			<title>工作表.54</title>
+			<desc>Et=2</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="321.476" width="56.7" height="28.3465"/>
+			<rect x="0" y="307.303" width="56.6929" height="28.3465" class="st1"/>
+			<text x="9.79" y="327.55" class="st25" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>E<tspan dy="-0.279em"
+						class="st26" v:baseFontSize="20">t</tspan><tspan dy="0.181em" class="st27">=</tspan><tspan class="st27">2</tspan></text>		</g>
+		<g id="shape55-214" v:mID="55" v:groupContext="shape" v:layerMember="0;1" transform="translate(384.177,-30.1751)">
+			<title>頁面上的參考.1459</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st4"/>
+		</g>
+		<g id="shape56-216" v:mID="56" v:groupContext="shape" v:layerMember="0;1" transform="translate(426.697,-30.1751)">
+			<title>頁面上的參考.1460</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape57-218" v:mID="57" v:groupContext="shape" v:layerMember="0;1" transform="translate(469.217,-30.1751)">
+			<title>頁面上的參考.1461</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st4"/>
+		</g>
+		<g id="shape58-220" v:mID="58" v:groupContext="shape" v:layerMember="0;1" transform="translate(299.138,-30.1751)">
+			<title>頁面上的參考.1462</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st4"/>
+		</g>
+		<g id="shape59-222" v:mID="59" v:groupContext="shape" v:layerMember="0;1" transform="translate(341.657,-30.1751)">
+			<title>頁面上的參考.1463</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape60-224" v:mID="60" v:groupContext="shape" v:layerMember="0;1" transform="translate(384.177,-79.7814)">
+			<title>頁面上的參考.1464</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape61-226" v:mID="61" v:groupContext="shape" v:layerMember="0;1" transform="translate(426.697,-79.7814)">
+			<title>頁面上的參考.1465</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st7"/>
+		</g>
+		<g id="shape62-228" v:mID="62" v:groupContext="shape" v:layerMember="0;1" transform="translate(469.217,-79.7814)">
+			<title>頁面上的參考.1466</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape63-230" v:mID="63" v:groupContext="shape" v:layerMember="0;1" transform="translate(299.138,-79.7814)">
+			<title>頁面上的參考.1467</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape64-232" v:mID="64" v:groupContext="shape" v:layerMember="0;1" transform="translate(341.657,-79.7814)">
+			<title>頁面上的參考.1468</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape65-234" v:mID="65" v:groupContext="shape" v:layerMember="0;1" transform="translate(384.177,-129.388)">
+			<title>頁面上的參考.1469</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape66-236" v:mID="66" v:groupContext="shape" v:layerMember="0;1" transform="translate(426.697,-129.388)">
+			<title>頁面上的參考.1470</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape67-238" v:mID="67" v:groupContext="shape" v:layerMember="0;1" transform="translate(469.217,-129.388)">
+			<title>頁面上的參考.1471</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape68-240" v:mID="68" v:groupContext="shape" v:layerMember="0;1" transform="translate(299.138,-129.388)">
+			<title>頁面上的參考.1472</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape69-242" v:mID="69" v:groupContext="shape" v:layerMember="0;1" transform="translate(341.657,-129.388)">
+			<title>頁面上的參考.1473</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape70-244" v:mID="70" v:groupContext="shape" v:layerMember="0;1" transform="translate(511.736,-30.1751)">
+			<title>頁面上的參考.1474</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape71-246" v:mID="71" v:groupContext="shape" v:layerMember="0;1" transform="translate(511.736,-79.7814)">
+			<title>頁面上的參考.1475</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape72-248" v:mID="72" v:groupContext="shape" v:layerMember="0;1" transform="translate(511.736,-129.388)">
+			<title>頁面上的參考.1476</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape73-250" v:mID="73" v:groupContext="shape" v:layerMember="0" transform="translate(355.831,-58.5215)">
+			<title>動態連接器</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L-78.21 316.1" class="st9"/>
+		</g>
+		<g id="shape74-256" v:mID="74" v:groupContext="shape" v:layerMember="0" transform="translate(433.783,-58.5215)">
+			<title>動態連接器.1478</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 335.65 L7.09 321.42" class="st9"/>
+		</g>
+		<g id="shape75-262" v:mID="75" v:groupContext="shape" v:layerMember="0" transform="translate(525.909,-58.5215)">
+			<title>動態連接器.1479</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L-78.21 316.1" class="st9"/>
+		</g>
+		<g id="shape76-268" v:mID="76" v:groupContext="shape" v:layerMember="0" transform="translate(440.87,-108.128)">
+			<title>動態連接器.1480</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L-163.1 315.26" class="st9"/>
+		</g>
+		<g id="shape77-274" v:mID="77" v:groupContext="shape" v:layerMember="0" transform="translate(355.831,-58.5215)">
+			<title>動態連接器.1481</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L78.21 316.1" class="st9"/>
+		</g>
+		<g id="shape78-280" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(185.752,-58.5215)">
+			<title>動態連接器.1482</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L-78.21 316.1" class="st9"/>
+		</g>
+		<g id="shape79-286" v:mID="79" v:groupContext="shape" v:layerMember="0;1" transform="translate(426.697,-200.254)">
+			<title>頁面上的參考.1483</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape80-288" v:mID="80" v:groupContext="shape" v:layerMember="0;1" transform="translate(469.217,-200.254)">
+			<title>頁面上的參考.1484</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape81-290" v:mID="81" v:groupContext="shape" v:layerMember="0;1" transform="translate(511.736,-200.254)">
+			<title>頁面上的參考.1485</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st5"/>
+		</g>
+		<g id="shape82-292" v:mID="82" v:groupContext="shape" v:layerMember="0;1" transform="translate(426.697,-249.86)">
+			<title>頁面上的參考.1486</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape83-294" v:mID="83" v:groupContext="shape" v:layerMember="0;1" transform="translate(469.217,-249.86)">
+			<title>頁面上的參考.1487</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st7"/>
+		</g>
+		<g id="shape84-296" v:mID="84" v:groupContext="shape" v:layerMember="0;1" transform="translate(511.736,-249.86)">
+			<title>頁面上的參考.1489</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st6"/>
+		</g>
+		<g id="shape85-298" v:mID="85" v:groupContext="shape" v:layerMember="0" transform="translate(476.303,-228.6)">
+			<title>動態連接器.1490</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M7.09 335.65 L7.09 321.42" class="st9"/>
+		</g>
+		<g id="shape86-304" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(440.87,-228.6)">
+			<title>動態連接器.1491</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L-36.23 317.54" class="st9"/>
+		</g>
+		<g id="shape87-310" v:mID="87" v:groupContext="shape" v:layerMember="0;1" transform="translate(426.697,-299.466)">
+			<title>頁面上的參考.1492</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape88-312" v:mID="88" v:groupContext="shape" v:layerMember="0;1" transform="translate(469.217,-299.466)">
+			<title>頁面上的參考.1493</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape89-314" v:mID="89" v:groupContext="shape" v:layerMember="0;1" transform="translate(511.736,-299.466)">
+			<title>頁面上的參考.1494</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 321.48 A14.1732 14.1732 0 0 1 28.35 321.48 A14.1732 14.1732 0 1 1 0 321.48 Z" class="st11"/>
+		</g>
+		<g id="shape90-316" v:mID="90" v:groupContext="shape" v:layerMember="0" transform="translate(483.39,-278.207)">
+			<title>動態連接器.1495</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L-78.21 316.1" class="st9"/>
+		</g>
+		<g id="shape91-322" v:mID="91" v:groupContext="shape" v:layerMember="0" transform="translate(440.87,-228.6)">
+			<title>動態連接器.1496</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L36.23 317.54" class="st9"/>
+		</g>
+		<g id="shape92-328" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(525.909,-228.6)">
+			<title>動態連接器.1497</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L-36.23 317.54" class="st9"/>
+		</g>
+		<g id="shape93-334" v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(355.831,-228.6)">
+			<title>動態連接器.1498</title>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<path d="M0 335.65 L-36.23 317.54" class="st9"/>
+		</g>
+		<g id="shape94-340" v:mID="94" v:groupContext="shape" transform="translate(214.098,-162.695)">
+			<title>工作表.94</title>
+			<desc>...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="326.436" width="28.35" height="18.4252"/>
+			<rect x="0" y="317.224" width="28.3465" height="18.4252" class="st1"/>
+			<text x="6.67" y="332.44" class="st28" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>...</text>		</g>
+		<g id="shape95-343" v:mID="95" v:groupContext="shape" transform="translate(299.138,-162.695)">
+			<title>工作表.95</title>
+			<desc>...</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="326.436" width="28.35" height="18.4252"/>
+			<rect x="0" y="317.224" width="28.3465" height="18.4252" class="st1"/>
+			<text x="6.67" y="332.44" class="st28" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>...</text>		</g>
+		<g id="shape96-346" v:mID="96" v:groupContext="shape" transform="translate(540.083,-278.207)">
+			<title>工作表.96</title>
+			<desc>Output d=2</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="310.846" width="63.78" height="49.6063"/>
+			<rect x="0" y="286.043" width="63.7795" height="49.6063" class="st1"/>
+			<text x="2" y="305.44" class="st17" v:langID="1033"><v:paragraph/><v:tabList/>Output<v:newlineChar/><tspan x="2"
+						dy="1.2em" class="st18" v:langID="1028">d</tspan><tspan class="st19" v:langID="1028">=</tspan><tspan
+						class="st19" v:langID="1028">2</tspan></text>		</g>
+		<g id="shape97-352" v:mID="97" v:groupContext="shape" transform="translate(540.083,-228.6)">
+			<title>工作表.97</title>
+			<desc>Hidden d=1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="310.846" width="63.78" height="49.6063"/>
+			<rect x="0" y="286.043" width="63.7795" height="49.6063" class="st1"/>
+			<text x="2" y="305.44" class="st17" v:langID="1033"><v:paragraph/><v:tabList/>Hidden<v:newlineChar/><tspan x="2"
+						dy="1.2em" class="st18" v:langID="1028">d</tspan><tspan class="st19" v:langID="1028">=</tspan><tspan
+						class="st19" v:langID="1028">1</tspan></text>		</g>
+		<g id="shape98-358" v:mID="98" v:groupContext="shape" transform="translate(540.083,-200.254)">
+			<title>工作表.98</title>
+			<desc>Input</desc>
+			<v:userDefs>
+				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
+				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5197"/>
+			<v:textRect cx="31.8898" cy="321.476" width="63.78" height="28.3465"/>
+			<rect x="0" y="307.303" width="63.7795" height="28.3465" class="st1"/>
+			<text x="2" y="326.88" class="st17" v:langID="1033"><v:paragraph/><v:tabList/>Input</text>		</g>
+	</g>
+</svg>
