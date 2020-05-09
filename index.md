@@ -98,15 +98,15 @@ This page is the demo of
   </tr>
   <tr> <td colspan="3" align="center"> Conditioned on <b>&frac12;</b>&times;<i>F</i><sub>0</sub> </td> </tr>
   <tr>
-  <td> <img class="preload" src="res/figure/Bf20C2_0.5f0.gif" style="display:block;width:240px;height:220px"/> /> </td>
-  <td> <img class="preload" src="res/figure/Ba10C2Bf10C1_0.5f0.gif" style="display:block;width:240px;height:220px"/> /> </td>
-  <td> <img class="preload" src="res/figure/Bf10C1Ba10C2_0.5f0.gif" style="display:block;width:240px;height:220px"/> /> </td>
+  <td> <img class="preload" src="res/figure/Bf20C2_0.5f0.gif" style="display:block;width:240px;height:220px"/> </td>
+  <td> <img class="preload" src="res/figure/Ba10C2Bf10C1_0.5f0.gif" style="display:block;width:240px;height:220px"/> </td>
+  <td> <img class="preload" src="res/figure/Bf10C1Ba10C2_0.5f0.gif" style="display:block;width:240px;height:220px"/> </td>
   </tr>
   <tr> <td colspan="3" align="center"> Conditioned on <b>2</b>&times;<i>F</i><sub>0</sub> </td> </tr>
   <tr>
-  <td> <img class="preload" src="res/figure/Bf20C2_2f0.gif" style="display:block;width:240px;height:220px"/> /> </td>
-  <td> <img class="preload" src="res/figure/Ba10C2Bf10C1_2f0.gif" style="display:block;width:240px;height:220px"/> /> </td>
-  <td> <img class="preload" src="res/figure/Bf10C1Ba10C2_2f0.gif" style="display:block;width:240px;height:220px"/> /> </td>
+  <td> <img class="preload" src="res/figure/Bf20C2_2f0.gif" style="display:block;width:240px;height:220px"/> </td>
+  <td> <img class="preload" src="res/figure/Ba10C2Bf10C1_2f0.gif" style="display:block;width:240px;height:220px"/> </td>
+  <td> <img class="preload" src="res/figure/Bf10C1Ba10C2_2f0.gif" style="display:block;width:240px;height:220px"/> </td>
   </tr>
 </table>
 
