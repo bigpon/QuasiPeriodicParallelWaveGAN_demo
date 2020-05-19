@@ -8,28 +8,28 @@
 
 	<style type="text/css">
 	<![CDATA[
-		.st1 {marker-end:url(#mrkr5-6);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.249999}
-		.st2 {fill:#404040;fill-opacity:1;stroke:#404040;stroke-opacity:1;stroke-width:0.090252518039347}
-		.st3 {fill:none;stroke:#404040;stroke-dasharray:3.49998,2.49998;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.499997}
-		.st4 {fill:#faeadc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.999996}
+		.st1 {marker-end:url(#mrkr5-6);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.249998}
+		.st2 {fill:#404040;fill-opacity:1;stroke:#404040;stroke-opacity:1;stroke-width:0.090252189611224}
+		.st3 {fill:none;stroke:#404040;stroke-dasharray:3.49997,2.49998;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.499996}
+		.st4 {fill:#faeadc;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.999994}
 		.st5 {fill:#000000;font-family:Times New Roman;font-size:0.833336em;font-weight:bold}
 		.st6 {font-size:1em;font-style:italic}
-		.st7 {fill:#ffffff;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.249999}
+		.st7 {fill:#ffffff;stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.249998}
 		.st8 {fill:#000000;font-family:Times New Roman;font-size:0.833336em}
 		.st9 {font-size:1em}
-		.st10 {fill:url(#grad30-20);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.249999}
-		.st11 {fill:#e1ebf3;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.999996}
-		.st12 {fill:#eff2e6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.999996}
-		.st13 {fill:#ffffff;stroke:#3e75a6;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.499997}
+		.st10 {fill:url(#grad30-20);stroke:#404040;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.249998}
+		.st11 {fill:#e1ebf3;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.999994}
+		.st12 {fill:#eff2e6;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.999994}
+		.st13 {fill:#ffffff;stroke:#3e75a6;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.499996}
 		.st14 {fill:#000000;font-family:Times New Roman;font-size:0.833336em;font-style:italic}
-		.st15 {baseline-shift:-32.4947%;font-size:0.649894em}
-		.st16 {fill:url(#grad30-103);stroke:#404040;stroke-linecap:butt;stroke-width:0.249999}
-		.st17 {fill:#ffffff;stroke:#d26d19;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.499997}
+		.st15 {baseline-shift:-32.4947%;font-size:0.649894em;font-style:normal}
+		.st16 {fill:url(#grad30-103);stroke:#404040;stroke-linecap:butt;stroke-width:0.249998}
+		.st17 {fill:#ffffff;stroke:#d26d19;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.499996}
 		.st18 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
-		.st19 {baseline-shift:-32.4947%;font-size:0.649894em;font-style:italic}
-		.st20 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.249999}
+		.st19 {baseline-shift:-32.4947%;font-size:0.649894em}
+		.st20 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.249998}
 		.st21 {fill:#d26d19;font-family:Times New Roman;font-size:0.833336em;font-weight:bold}
-		.st22 {fill:none;stroke:#d26d19;stroke-dasharray:6.99997,4.99998;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.999996}
+		.st22 {fill:none;stroke:#d26d19;stroke-dasharray:6.99996,4.99997;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.999994}
 		.st23 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
 	]]>
 	</style>
@@ -49,26 +49,26 @@
 		<g id="lend5">
 			<path d="M 2 1 L 0 0 L 1.98117 -0.993387 C 1.67173 -0.364515 1.67301 0.372641 1.98465 1.00043 " style="stroke:none"/>
 		</g>
-		<marker id="mrkr5-6" class="st2" v:arrowType="5" v:arrowSize="2" v:setback="0" refX="-0" orient="auto"
+		<marker id="mrkr5-6" class="st2" v:arrowType="5" v:arrowSize="2" v:setback="19.3901" refX="-19.390111281936" orient="auto"
 				markerUnits="strokeWidth" overflow="visible">
-			<use xlink:href="#lend5" transform="scale(-11.080023269423,-11.080023269423) "/>
+			<use xlink:href="#lend5" transform="scale(-11.080063589678,-11.080063589678) "/>
 		</marker>
 	</defs>
 	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
 		<title>Page-1</title>
-		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.5039"
-				v:shadowOffsetY="-8.5039"/>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50388"
+				v:shadowOffsetY="-8.50388"/>
 		<v:layer v:name="連接器" v:index="0"/>
 		<v:layer v:name="流程圖" v:index="1"/>
-		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(102.542,-28.8471)">
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="0" transform="translate(102.542,-28.8472)">
 			<title>動態連接器.1501</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M76.54 176.75 L76.54 124.3 L0 124.3 L0 113.56 L0 108.71" class="st1"/>
+			<path d="M76.54 176.75 L76.54 124.3 L0 124.3 L0 113.56 L0 113.56" class="st1"/>
 		</g>
-		<g id="shape2-7" v:mID="2" v:groupContext="shape" v:layerMember="1" transform="translate(0.499997,-0.500161)">
+		<g id="shape2-7" v:mID="2" v:groupContext="shape" v:layerMember="1" transform="translate(0.499996,-0.500324)">
 			<title>程序.506</title>
 			<v:custProps>
 				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
@@ -96,7 +96,7 @@
 			</v:userDefs>
 			<path d="M0 176.75 L206.93 176.75 L206.93 1 L0 1 L0 176.75 Z" class="st3"/>
 		</g>
-		<g id="shape3-9" v:mID="3" v:groupContext="shape" v:layerMember="1" transform="translate(37.3498,-37.3582)">
+		<g id="shape3-9" v:mID="3" v:groupContext="shape" v:layerMember="1" transform="translate(37.3497,-37.3584)">
 			<title>程序.475</title>
 			<desc>Generator (G)</desc>
 			<v:custProps>
@@ -123,12 +123,12 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
-			<v:textRect cx="39.6847" cy="168.245" width="79.38" height="17.0079"/>
-			<rect x="0" y="159.742" width="79.3697" height="17.0079" class="st4"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
+			<v:textRect cx="39.6846" cy="168.245" width="79.38" height="17.0079"/>
+			<rect x="0" y="159.742" width="79.3695" height="17.0079" class="st4"/>
 			<text x="9.28" y="171.25" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Generator (<tspan
 						class="st6">G</tspan>)</text>		</g>
-		<g id="shape4-13" v:mID="4" v:groupContext="shape" v:layerMember="1" transform="translate(82.7037,-6.17874)">
+		<g id="shape4-13" v:mID="4" v:groupContext="shape" v:layerMember="1" transform="translate(82.7035,-6.17879)">
 			<title>程序.478</title>
 			<desc>Gaussian noise</desc>
 			<v:custProps>
@@ -155,12 +155,12 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
-			<v:textRect cx="22.6771" cy="165.411" width="45.36" height="22.6771"/>
-			<rect x="0" y="154.073" width="45.354" height="22.6771" class="st7"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
+			<v:textRect cx="22.677" cy="165.411" width="45.36" height="22.677"/>
+			<rect x="0" y="154.073" width="45.3539" height="22.677" class="st7"/>
 			<text x="4.35" y="162.41" class="st8" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Gaussian <tspan
 						x="12.12" dy="1.2em" class="st9">noise</tspan></text>		</g>
-		<g id="shape5-17" v:mID="5" v:groupContext="shape" v:layerMember="1" transform="translate(26.0119,-6.17874)">
+		<g id="shape5-17" v:mID="5" v:groupContext="shape" v:layerMember="1" transform="translate(26.0118,-6.17879)">
 			<title>程序.479</title>
 			<desc>Acoustic features</desc>
 			<v:custProps>
@@ -187,12 +187,12 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
-			<v:textRect cx="22.6771" cy="165.411" width="45.36" height="22.6771"/>
-			<rect x="0" y="154.073" width="45.354" height="22.6771" class="st10"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
+			<v:textRect cx="22.677" cy="165.411" width="45.36" height="22.677"/>
+			<rect x="0" y="154.073" width="45.3539" height="22.677" class="st10"/>
 			<text x="4.9" y="162.41" class="st8" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Acoustic <tspan
 						x="6.85" dy="1.2em" class="st9">features</tspan></text>		</g>
-		<g id="shape6-23" v:mID="6" v:groupContext="shape" v:layerMember="1" transform="translate(128.059,-96.8868)">
+		<g id="shape6-23" v:mID="6" v:groupContext="shape" v:layerMember="1" transform="translate(128.059,-96.8873)">
 			<title>程序.480</title>
 			<desc>Discriminator (D)</desc>
 			<v:custProps>
@@ -219,12 +219,12 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
-			<v:textRect cx="36.8501" cy="162.576" width="73.71" height="28.3464"/>
-			<rect x="0" y="148.403" width="73.7004" height="28.3464" class="st11"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
+			<v:textRect cx="36.85" cy="162.576" width="73.71" height="28.3463"/>
+			<rect x="0" y="148.404" width="73.7002" height="28.3463" class="st11"/>
 			<text x="6.86" y="159.58" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Discriminator <tspan
 						x="29.91" dy="1.2em" class="st9">(</tspan><tspan class="st6">D</tspan>)</text>		</g>
-		<g id="shape7-28" v:mID="7" v:groupContext="shape" v:layerMember="1" transform="translate(54.3578,-62.8715)">
+		<g id="shape7-28" v:mID="7" v:groupContext="shape" v:layerMember="1" transform="translate(54.3577,-62.8714)">
 			<title>程序.481</title>
 			<desc>Generated speech</desc>
 			<v:custProps>
@@ -251,12 +251,12 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
-			<v:textRect cx="22.6771" cy="165.411" width="45.36" height="22.6771"/>
-			<rect x="0" y="154.073" width="45.354" height="22.6771" class="st7"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
+			<v:textRect cx="22.677" cy="165.411" width="45.36" height="22.677"/>
+			<rect x="0" y="154.073" width="45.3539" height="22.677" class="st7"/>
 			<text x="2.14" y="162.41" class="st8" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Generated <tspan
 						x="9.07" dy="1.2em" class="st9">speech</tspan></text>		</g>
-		<g id="shape8-32" v:mID="8" v:groupContext="shape" v:layerMember="1" transform="translate(156.405,-6.17874)">
+		<g id="shape8-32" v:mID="8" v:groupContext="shape" v:layerMember="1" transform="translate(156.405,-6.17879)">
 			<title>程序.482</title>
 			<desc>Natural speech</desc>
 			<v:custProps>
@@ -283,12 +283,12 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
-			<v:textRect cx="22.6771" cy="165.411" width="45.36" height="22.6771"/>
-			<rect x="0" y="154.073" width="45.354" height="22.6771" class="st7"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
+			<v:textRect cx="22.677" cy="165.411" width="45.36" height="22.677"/>
+			<rect x="0" y="154.073" width="45.3539" height="22.677" class="st7"/>
 			<text x="7.68" y="162.41" class="st8" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Natural <tspan
 						x="9.07" dy="1.2em" class="st9">speech</tspan></text>		</g>
-		<g id="shape9-36" v:mID="9" v:groupContext="shape" v:layerMember="1" transform="translate(37.3498,-96.8868)">
+		<g id="shape9-36" v:mID="9" v:groupContext="shape" v:layerMember="1" transform="translate(37.3497,-96.8873)">
 			<title>程序.483</title>
 			<desc>Multi-resolution STFT loss</desc>
 			<v:custProps>
@@ -315,58 +315,58 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
-			<v:textRect cx="39.6847" cy="162.576" width="79.38" height="28.3464"/>
-			<rect x="0" y="148.403" width="79.3697" height="28.3464" class="st12"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
+			<v:textRect cx="39.6846" cy="162.576" width="79.38" height="28.3463"/>
+			<rect x="0" y="148.404" width="79.3695" height="28.3463" class="st12"/>
 			<text x="4.69" y="159.58" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Multi-resolution<v:newlineChar/><tspan
 						x="18.15" dy="1.2em" class="st9">STFT loss</tspan></text>		</g>
-		<g id="shape10-40" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(179.086,-28.8471)">
+		<g id="shape10-40" v:mID="10" v:groupContext="shape" v:layerMember="0" transform="translate(179.086,-28.8472)">
 			<title>動態連接器.484</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 113.56 L0 108.71" class="st1"/>
+			<path d="M0 176.75 L0 113.56 L0 113.56" class="st1"/>
 		</g>
-		<g id="shape11-45" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(99.7117,-74.2009)">
+		<g id="shape11-45" v:mID="11" v:groupContext="shape" v:layerMember="0" transform="translate(99.7115,-74.2009)">
 			<title>動態連接器.485</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L51.02 176.75 L51.02 158.92 L51.02 154.07" class="st1"/>
+			<path d="M0 176.75 L51.02 176.75 L51.02 158.92 L51.02 158.92" class="st1"/>
 		</g>
-		<g id="shape12-50" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(77.0387,-54.3639)">
+		<g id="shape12-50" v:mID="12" v:groupContext="shape" v:layerMember="0" transform="translate(77.0385,-54.3639)">
 			<title>動態連接器.486</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 173.09 L0 168.24" class="st1"/>
+			<path d="M0 176.75 L0 173.09 L0 173.09" class="st1"/>
 		</g>
-		<g id="shape13-55" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(48.6918,-28.8521)">
+		<g id="shape13-55" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(48.6917,-28.8522)">
 			<title>動態連接器.487</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 173.09 L0 168.24" class="st1"/>
+			<path d="M0 176.75 L0 173.09 L0 173.09" class="st1"/>
 		</g>
-		<g id="shape14-60" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(105.385,-28.8521)">
+		<g id="shape14-60" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(105.385,-28.8522)">
 			<title>動態連接器.488</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 173.09 L0 168.24" class="st1"/>
+			<path d="M0 176.75 L0 173.09 L0 173.09" class="st1"/>
 		</g>
-		<g id="shape15-65" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(77.0387,-85.5419)">
+		<g id="shape15-65" v:mID="15" v:groupContext="shape" v:layerMember="0" transform="translate(77.0385,-85.5419)">
 			<title>動態連接器.489</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 170.26 L0 165.41" class="st1"/>
+			<path d="M0 176.75 L0 170.26 L0 170.26" class="st1"/>
 		</g>
 		<g id="shape16-70" v:mID="16" v:groupContext="shape" v:layerMember="1" transform="translate(167.744,-156.414)">
 			<title>程序.490</title>
@@ -395,18 +395,18 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
 			<v:textRect cx="11.3386" cy="168.245" width="22.68" height="17.0079"/>
-			<rect x="0" y="159.742" width="22.6771" height="17.0079" class="st13"/>
+			<rect x="0" y="159.742" width="22.677" height="17.0079" class="st13"/>
 			<text x="6.21" y="171.25" class="st14" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>L<tspan dy="-0.279em"
-						class="st15" v:baseFontSize="9.99996">D</tspan></text>		</g>
+						class="st15" v:baseFontSize="9.99994">D</tspan></text>		</g>
 		<g id="shape17-74" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(179.086,-122.39)">
 			<title>動態連接器.491</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 147.58 L0 142.73" class="st1"/>
+			<path d="M0 176.75 L0 147.58 L0 147.58" class="st1"/>
 		</g>
 		<g id="shape18-79" v:mID="18" v:groupContext="shape" v:layerMember="1" transform="translate(139.397,-133.736)">
 			<title>程序.492</title>
@@ -435,20 +435,20 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
 			<v:textRect cx="11.3386" cy="168.245" width="22.68" height="17.0079"/>
-			<rect x="0" y="159.742" width="22.6771" height="17.0079" class="st7"/>
+			<rect x="0" y="159.742" width="22.677" height="17.0079" class="st7"/>
 			<text x="3.87" y="171.25" class="st14" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>L<tspan dy="-0.279em"
-						class="st15" v:baseFontSize="9.99996">adv</tspan></text>		</g>
+						class="st15" v:baseFontSize="9.99994">adv</tspan></text>		</g>
 		<g id="shape19-83" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(150.739,-122.393)">
 			<title>動態連接器.493</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 170.26 L0 165.41" class="st1"/>
+			<path d="M0 176.75 L0 170.26 L0 170.26" class="st1"/>
 		</g>
-		<g id="shape20-88" v:mID="20" v:groupContext="shape" v:layerMember="1" transform="translate(65.6967,-133.736)">
+		<g id="shape20-88" v:mID="20" v:groupContext="shape" v:layerMember="1" transform="translate(65.6965,-133.736)">
 			<title>程序.494</title>
 			<desc>Lsp</desc>
 			<v:custProps>
@@ -475,20 +475,20 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
 			<v:textRect cx="11.3386" cy="168.245" width="22.68" height="17.0079"/>
-			<rect x="0" y="159.742" width="22.6771" height="17.0079" class="st7"/>
+			<rect x="0" y="159.742" width="22.677" height="17.0079" class="st7"/>
 			<text x="5.67" y="171.25" class="st14" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>L<tspan dy="-0.279em"
-						class="st15" v:baseFontSize="9.99996">sp</tspan></text>		</g>
-		<g id="shape21-92" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(77.0387,-125.23)">
+						class="st15" v:baseFontSize="9.99994">sp</tspan></text>		</g>
+		<g id="shape21-92" v:mID="21" v:groupContext="shape" v:layerMember="0" transform="translate(77.0385,-125.23)">
 			<title>動態連接器.495</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 173.09 L0 168.24" class="st1"/>
+			<path d="M0 176.75 L0 173.09 L0 173.09" class="st1"/>
 		</g>
-		<g id="shape22-97" v:mID="22" v:groupContext="shape" v:layerMember="0;1" transform="translate(96.8767,-136.563)">
+		<g id="shape22-97" v:mID="22" v:groupContext="shape" v:layerMember="0;1" transform="translate(96.8765,-136.563)">
 			<title>頁面上的參考.496</title>
 			<v:userDefs>
 				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(14):26"/>
@@ -497,7 +497,7 @@
 			</v:userDefs>
 			<path d="M0 171.08 A5.66999 5.66999 0 0 1 11.34 171.08 A5.66999 5.66999 0 0 1 0 171.08 Z" class="st10"/>
 		</g>
-		<g id="shape23-100" v:mID="23" v:groupContext="shape" transform="translate(-22.4284,-85.8354) rotate(-45)">
+		<g id="shape23-100" v:mID="23" v:groupContext="shape" transform="translate(-22.4286,-85.8353) rotate(-45)">
 			<title>移除.497</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
@@ -508,7 +508,7 @@
 			<path d="M5.39 176.75 L3.27 174.63 L1.16 176.75 L0 175.59 L2.12 173.47 L0 171.35 L1.16 170.2 L3.27 172.32 L5.39 170.2
 						 L6.55 171.35 L4.43 173.47 L6.55 175.59 L5.39 176.75 Z" class="st16"/>
 		</g>
-		<g id="shape24-104" v:mID="24" v:groupContext="shape" v:layerMember="1" transform="translate(91.2077,-156.414)">
+		<g id="shape24-104" v:mID="24" v:groupContext="shape" v:layerMember="1" transform="translate(91.2075,-156.414)">
 			<title>程序.498</title>
 			<desc>LG</desc>
 			<v:custProps>
@@ -535,26 +535,26 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
 			<v:textRect cx="11.3386" cy="168.245" width="22.68" height="17.0079"/>
-			<rect x="0" y="159.742" width="22.6771" height="17.0079" class="st17"/>
+			<rect x="0" y="159.742" width="22.677" height="17.0079" class="st17"/>
 			<text x="6.21" y="171.25" class="st14" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>L<tspan dy="-0.279em"
-						class="st15" v:baseFontSize="9.99996">G</tspan></text>		</g>
+						class="st15" v:baseFontSize="9.99994">G</tspan></text>		</g>
 		<g id="shape25-108" v:mID="25" v:groupContext="shape" v:layerMember="0" transform="translate(102.55,-147.907)">
 			<title>動態連接器.499</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L0 173.09 L0 168.24" class="st1"/>
+			<path d="M0 176.75 L0 173.09 L0 173.09" class="st1"/>
 		</g>
-		<g id="shape26-113" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(88.3687,-142.236)">
+		<g id="shape26-113" v:mID="26" v:groupContext="shape" v:layerMember="0" transform="translate(88.3685,-142.236)">
 			<title>動態連接器.500</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M0 176.75 L3.66 176.75 L8.51 176.75" class="st1"/>
+			<path d="M0 176.75 L3.66 176.75 L3.66 176.75" class="st1"/>
 		</g>
 		<g id="shape27-118" v:mID="27" v:groupContext="shape" v:layerMember="0;1" transform="translate(119.555,-136.563)">
 			<title>頁面上的參考.501</title>
@@ -565,7 +565,7 @@
 			</v:userDefs>
 			<path d="M0 171.08 A5.66999 5.66999 0 0 1 11.34 171.08 A5.66999 5.66999 0 0 1 0 171.08 Z" class="st10"/>
 		</g>
-		<g id="shape28-121" v:mID="28" v:groupContext="shape" transform="translate(-48.2431,37.783) rotate(-90)">
+		<g id="shape28-121" v:mID="28" v:groupContext="shape" transform="translate(-48.2433,37.7831) rotate(-90)">
 			<title>移除.502</title>
 			<v:userDefs>
 				<v:ud v:nameU="msvShapeCategories" v:prompt="" v:val="VT4(Icon)"/>
@@ -582,7 +582,7 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M8.51 176.75 L4.85 176.75 L0 176.75" class="st1"/>
+			<path d="M8.51 176.75 L4.85 176.75 L4.85 176.75" class="st1"/>
 		</g>
 		<g id="shape30-129" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(108.217,-142.236)">
 			<title>動態連接器.504</title>
@@ -590,7 +590,7 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<path d="M11.34 176.75 L4.85 176.75 L0 176.75" class="st1"/>
+			<path d="M11.34 176.75 L4.85 176.75 L4.85 176.75" class="st1"/>
 		</g>
 		<g id="shape31-134" v:mID="31" v:groupContext="shape" v:layerMember="0" transform="translate(125.227,-147.904)">
 			<title>動態連接器.505</title>
@@ -599,35 +599,35 @@
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(3.99997,3.99997,3.99997,3.99997)" v:tabSpace="42.5194"/>
-			<v:textRect cx="-0.00338999" cy="159.735" width="50.15" height="20.0036"/>
-			<path d="M0 159.74 L0 171.9 L0 176.75" class="st1"/>
-			<rect v:rectContext="textBkgnd" x="-7.11953" y="153.736" width="14.232" height="12.5983" class="st18"/>
-			<text x="-7.12" y="162.74" class="st8" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>λ<tspan dy="-0.279em"
-						class="st19" v:baseFontSize="9.99996">adv</tspan> </text>		</g>
-		<g id="shape32-142" v:mID="32" v:groupContext="shape" transform="translate(3.33398,-162.083)">
+			<v:textBlock v:margins="rect(3.99996,3.99996,3.99996,3.99996)" v:tabSpace="42.5193"/>
+			<v:textRect cx="-0.00338998" cy="159.735" width="50.2" height="20.0036"/>
+			<path d="M0 159.74 L0 171.9 L0 171.9" class="st1"/>
+			<rect v:rectContext="textBkgnd" x="-7.11954" y="153.735" width="14.232" height="12.5994" class="st18"/>
+			<text x="-7.12" y="162.73" class="st8" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>λ<tspan dy="-0.279em"
+						class="st19" v:baseFontSize="9.99994">adv</tspan> </text>		</g>
+		<g id="shape32-142" v:mID="32" v:groupContext="shape" transform="translate(3.33397,-162.083)">
 			<title>工作表.32</title>
 			<desc>Training</desc>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
 			<v:textRect cx="21.2598" cy="171.08" width="42.52" height="11.3386"/>
-			<rect x="0" y="165.411" width="42.5194" height="11.3386" class="st20"/>
+			<rect x="0" y="165.411" width="42.5193" height="11.3386" class="st20"/>
 			<text x="2.37" y="174.08" class="st5" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Training</text>		</g>
-		<g id="shape33-145" v:mID="33" v:groupContext="shape" transform="translate(6.16898,-74.2097)">
+		<g id="shape33-145" v:mID="33" v:groupContext="shape" transform="translate(6.16897,-74.2101)">
 			<title>工作表.33</title>
 			<desc>Synthesis</desc>
 			<v:userDefs>
 				<v:ud v:nameU="msvThemeColors" v:val="VT0(36):26"/>
 				<v:ud v:nameU="msvThemeEffects" v:val="VT0(16):26"/>
 			</v:userDefs>
-			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5194"/>
-			<v:textRect cx="22.6771" cy="171.08" width="45.36" height="11.3386"/>
-			<rect x="0" y="165.411" width="45.354" height="11.3386" class="st20"/>
+			<v:textBlock v:margins="rect(2,2,2,2)" v:tabSpace="42.5193"/>
+			<v:textRect cx="22.677" cy="171.08" width="45.36" height="11.3386"/>
+			<rect x="0" y="165.411" width="45.3539" height="11.3386" class="st20"/>
 			<text x="2.67" y="174.08" class="st21" v:langID="1028"><v:paragraph v:horizAlign="1"/><v:tabList/>Synthesis</text>		</g>
-		<g id="shape34-148" v:mID="34" v:groupContext="shape" v:layerMember="1" transform="translate(3.33398,-3.33515)">
+		<g id="shape34-148" v:mID="34" v:groupContext="shape" v:layerMember="1" transform="translate(3.33397,-3.33531)">
 			<title>程序.507</title>
 			<v:custProps>
 				<v:cp v:nameU="Cost" v:lbl="成本" v:prompt="" v:type="7" v:format="@" v:sortKey="" v:invis="false" v:ask="false"
