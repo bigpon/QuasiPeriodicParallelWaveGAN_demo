@@ -15,7 +15,7 @@ This page is the demo of
 [QPNet](https://bigpon.github.io/QuasiPeriodicWaveNet_demo/)  
 
 ## **Architecture of PWG/QPPWG**  
-<center><img src="res/figure/PWG.svg" style="display:block;width:370px;height:300px"></center>
+<center><img src="res/figure/PWG.svg" style="display:block;width:370px;height:320px"></center>
 
 ## **Generator of QPPWG**  
 <center><img src="res/figure/QPPWG_G.svg" style="display:block;width:500px;height:370px"></center>  
