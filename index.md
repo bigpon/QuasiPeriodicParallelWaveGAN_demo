@@ -2,8 +2,8 @@
 layout: default
 ---
 This page is the demo of 
-1. "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation" [[paper](https://arxiv.org/abs/2005.08654)] [[code](https://github.com/bigpon/QPPWG)]  
-2. "Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural networks"
+1. "Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural networks" [[paper](https://arxiv.org/abs/2007.12955)] [[code](https://github.com/bigpon/QPPWG)]  
+2. "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation" [[paper](https://arxiv.org/abs/2005.08654)] 
 
 ## **Abstract**  
 <p align="justify"> We propose a <b>Quasi-Periodic Parallel WaveGAN (QPPWG)</b> waveform generative model, which applies a quasi-periodic (QP) structure to a parallel WaveGAN (PWG) model using pitch-dependent dilated convolution networks (PDCNNs). PWG is a compact GAN-based raw waveform generative model, whose generation time is much faster than realtime because of its non-autoregressive (non-AR) and non-causal mechanisms. Although PWG achieves a high fidelity speech generation, the generic and simple network architecture lacks pitch-controllability for the unseen auxiliary pitches such as a scaled pitch. To improve the pitch and speech modeling capability, we apply a QP structure with PDCNNs to the generator of PWG, and it introduces pitch information to the network by dynamically changing the network architecture corresponding to the auxiliary pitches. </p>
