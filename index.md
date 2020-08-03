@@ -2,7 +2,7 @@
 layout: default
 ---
 This page is the demo of 
-1. "Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural networks" [[paper](https://arxiv.org/abs/2007.12955)] [[code](https://github.com/bigpon/QPPWG)]  
+1. "Quasi-periodic parallel WaveGAN: a non-autoregressive raw waveform generative model with pitch-dependent dilated convolution neural networks" [[paper](https://arxiv.org/abs/2007.12955)] [[code](https://github.com/bigpon/QPPWG)] [[YouTube](https://youtu.be/nRahlEgywjg)] [[Medium](https://medium.com/@bigpon517/2020-speech-generation-1-quasi-periodic-waveform-generative-model-with-pitch-dependent-dilated-792261d96aba)]  
 2. "Quasi-periodic parallel WaveGAN vocoder: a non-autoregressive pitch-dependent dilated convolution model for parametric speech generation" [[paper](https://arxiv.org/abs/2005.08654)] 
 
 ## **Abstract**  
