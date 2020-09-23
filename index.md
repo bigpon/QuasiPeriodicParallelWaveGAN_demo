@@ -82,13 +82,18 @@ This page is the demo of
 <br /> 
 
 ## **Visualized Intermediate Outputs** 
-<p align="justify"> Because the waveform outputs of the PWG/QPPWG models are the cumulative results of the skip connections from the residual blocks, the speech modeling behavior of the residual blocks can be explored via the visualized intermediate outputs of partial residual blocks. The following table shows the spectrograms of the intermediate outputs of the cumulative residual blocks. The results of PWG w/ 20 fixed blocks, QPPWG w/ 10 adaptive blocks + 10 fixed blocks (the demo system QPPWG_20), and QPPWG w/ 10 fixed blocks + 10 adaptive blocks are presented.</p> 
+<p align="justify"> Because the waveform outputs of the PWG/QPPWG models are the cumulative results of the skip connections from the residual blocks, the speech modeling behavior of the residual blocks can be explored via the visualized intermediate outputs of partial residual blocks. The following table shows the spectrograms of the intermediate outputs of the cumulative residual blocks. </p> 
 
 <table border="0">
   <tr>
-  <td align="center"> <b>PWG</b> </td>
+  <td align="center"> <b>PWG (PWG_20) </b> </td>
   <td align="center"> <b>QPPWG (adaptive->fixed)</b> </td>
   <td align="center"> <b>QPPWG (fixed->adaptive)</b> </td>
+  </tr>
+  <tr>
+  <td align="center"> 1-20: fixed blocks </td>
+  <td align="center"> 1-10: adaptive blocks <br> 11-20: fixed blocks </td>
+  <td align="center"> 1-10: fixed blocks <br> 11-20: adaptive blocks </td>
   </tr>
   <tr> <td colspan="3" align="center"> Conditioned on <b>1</b>&times;<i>F</i><sub>0</sub> </td> </tr>
   <tr>
@@ -111,11 +116,66 @@ This page is the demo of
 </table>
 
 According to the results, we can find that
-- **PWG**: spectrograms contain more harmonic and non-harmonic details as the number of the cumulative residual blocks increases. 
+- **PWG (PWG_20)**: spectrograms contain more harmonic and non-harmonic details as the number of the cumulative residual blocks increases. 
 - **QPPWG (adaptive->fixed)**: the first ten adaptive blocks focus on modeling the harmonic components. 
 - **QPPWG (fixed->adaptive)**: the first ten fixed blocks focus on modeling the the non-harmonic components.  
 
-The results confirm our assumption that that the adaptive blocks with the PDCNNs primarily model the pitch-related speech components with the long-term correlations while the fixed blocks with the DCNNs mainly focus on the spectral-related speech components with the short-term correlations.
+Furthermore, the audio files of the QPPWG intermediate outputs are also provided.
+
+<table border="0">
+  <tr>
+  <td align="center"> <b>  </b> </td>
+  <td align="center"> <b>QPPWG (adaptive->fixed)</b> </td>
+  <td align="center"> <b>QPPWG (fixed->adaptive)</b> </td>
+  </tr>
+  <tr>
+  <td align="center"> 1-10 blocks </td>
+  <td align="center"> adaptive blocks </td>
+  <td align="center"> fixed blocks </td>
+  </tr>
+  <tr> <td colspan="3" align="center"> Conditioned on <b>1</b>&times;<i>F</i><sub>0</sub> </td> </tr>
+  <tr>
+  <td align="center"> outputs of <br> 1-10 blocks </td>
+  <td align="center"> <img class="preload" src="res/audio/mid/QPPWGaf/1_0_F0/SF3_30029_o9.png" style="display:block;width:240px;height:220px"/> 
+  <audio src="res/audio/mid/QPPWGaf/1_0_F0/SF3_30029_o9.wav" controls preload></audio> </td>
+  <td align="center"> <img class="preload" src="res/audio/mid/QPPWGfa/1_0_F0/SF3_30029_o9.png" style="display:block;width:240px;height:220px"/> 
+  <audio src="res/audio/mid/QPPWGfa/1_0_F0/SF3_30029_o9.wav" controls preload></audio> </td>
+  </tr>
+  <tr>
+  <td align="center"> Final outputs </td>
+  <td> <audio src="res/audio/mid/QPPWGaf/1_0_F0/SF3_30029_o19.wav" controls preload></audio> </td>
+  <td> <audio src="res/audio/mid/QPPWGfa/1_0_F0/SF3_30029_o19.wav" controls preload></audio> </td>
+  </tr>
+  <tr> <td colspan="3" align="center"> Conditioned on <b>&frac12;</b>&times;<i>F</i><sub>0</sub> </td> </tr>
+  <tr>
+  <td align="center"> outputs of <br> 1-10 blocks </td>
+  <td align="center"> <img class="preload" src="res/audio/mid/QPPWGaf/0_5_F0/SF3_30029_o9.png" style="display:block;width:240px;height:220px"/> 
+  <audio src="res/audio/mid/QPPWGaf/0_5_F0/SF3_30029_o9.wav" controls preload></audio> </td>
+  <td align="center"> <img class="preload" src="res/audio/mid/QPPWGfa/0_5_F0/SF3_30029_o9.png" style="display:block;width:240px;height:220px"/> 
+  <audio src="res/audio/mid/QPPWGfa/0_5_F0/SF3_30029_o9.wav" controls preload></audio> </td>
+  </tr>
+  <tr>
+  <td align="center"> Final outputs </td>
+  <td> <audio src="res/audio/mid/QPPWGaf/0_5_F0/SF3_30029_o19.wav" controls preload></audio> </td>
+  <td> <audio src="res/audio/mid/QPPWGfa/0_5_F0/SF3_30029_o19.wav" controls preload></audio> </td>
+  </tr>
+  <tr> <td colspan="3" align="center"> Conditioned on <b>2</b>&times;<i>F</i><sub>0</sub> </td> </tr>
+  <tr>
+  <td align="center"> outputs of <br> 1-10 blocks </td>
+  <td align="center"> <img class="preload" src="res/audio/mid/QPPWGaf/2_0_F0/SF3_30029_o9.png" style="display:block;width:240px;height:220px"/> 
+  <audio src="res/audio/mid/QPPWGaf/2_0_F0/SF3_30029_o9.wav" controls preload></audio> </td>
+  <td align="center"> <img class="preload" src="res/audio/mid/QPPWGfa/2_0_F0/SF3_30029_o9.png" style="display:block;width:240px;height:220px"/> 
+  <audio src="res/audio/mid/QPPWGfa/2_0_F0/SF3_30029_o9.wav" controls preload></audio> </td>
+  </tr>
+  <tr>
+  <td align="center"> Final outputs </td>
+  <td> <audio src="res/audio/mid/QPPWGaf/2_0_F0/SF3_30029_o19.wav" controls preload></audio> </td>
+  <td> <audio src="res/audio/mid/QPPWGfa/2_0_F0/SF3_30029_o19.wav" controls preload></audio> </td>
+  </tr>
+</table>
+
+
+<p align="justify"> The cumulative outputs of the adaptive blocks are excitation-signal-like and highly pitch-dependent while that of the fixed blocks are spectral-related and less pitch-dependent. The results confirm our assumption that that the adaptive blocks with the PDCNNs primarily model the pitch-related speech components with the long-term correlations while the fixed blocks with the DCNNs mainly focus on the spectral-related speech components with the short-term correlations. </p>
 
 <br /> 
 [Home](https://bigpon.github.io/)
